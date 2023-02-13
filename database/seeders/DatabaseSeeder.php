@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
 
             PersonSeeder::class,
             PersonDetailSeeder::class,
+            PostSeeder::class,
         ]);
     }
 }
